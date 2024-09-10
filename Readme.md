@@ -2,7 +2,7 @@
 
 * Студент: [Кирилл Царев](https://up.htmlacademy.ru/htmlcss-individual/2/user/2547463).
 * Наставник: [Сергей Остаповец](https://htmlacademy.ru/profile/seraphim).
-
+* Мой проект [Мой проект Седона](https://kirugh.github.io/2547463-sedona-2/)
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
